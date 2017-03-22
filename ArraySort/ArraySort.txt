@@ -1,0 +1,72 @@
+run:
+Enter the size of the array (3 - 10): 
+9
+Enter 9 values
+Enter value for element 0
+1000
+Enter value for element 1
+-200
+Enter value for element 2
+500
+Enter value for element 3
+150
+Enter value for element 4
+600
+Enter value for element 5
+800
+Enter value for element 6
+150
+Enter value for element 7
+50
+Enter value for element 8
+-25
+The unsorted values…
+1000
+-200
+500
+150
+600
+800
+150
+50
+-25
+The sorted values…
+-200
+-25
+50
+150
+150
+500
+600
+800
+1000
+BUILD SUCCESSFUL (total time: 28 seconds)
+
+
+run:
+Enter the size of the array (3 - 10): 
+5
+Enter 5 values
+Enter value for element 0
+20
+Enter value for element 1
+500
+Enter value for element 2
+-30
+Enter value for element 3
+-204
+Enter value for element 4
+43
+The unsorted values…
+20
+500
+-30
+-204
+43
+The sorted values…
+-204
+-30
+20
+43
+500
+BUILD SUCCESSFUL (total time: 16 seconds)
